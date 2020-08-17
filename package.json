@@ -1,0 +1,9 @@
+{
+  "name": "vue-hotkey-manager",
+  "version": "1.0.3",
+  "description": "vue hotkey",
+  "main": "lib/index.js",
+  "author": "LittleTreeX",
+  "license": "ISC",
+  "devDependencies": {}
+}
